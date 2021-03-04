@@ -1,7 +1,6 @@
-# Pacman
-
 ![image](https://user-images.githubusercontent.com/45735996/109911587-58a41480-7c78-11eb-93e5-898955f45928.png)
 
+# Pacman
 MIT xPRO Week 4: Introduction to JavaScript
 
 # Description
