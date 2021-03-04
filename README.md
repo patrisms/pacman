@@ -1,10 +1,10 @@
 # Pacman
 MIT xPRO Week 4: Introduction to JavaScript
 
-![image](https://user-images.githubusercontent.com/45735996/109910766-e848c380-7c76-11eb-980f-36590146c4c9.png)
-
 # Description
 This aminated project was created primarily in JavaScript as part of my coursework for the MIT xPRO Full Stack Web Development program. 
+
+![image](https://user-images.githubusercontent.com/45735996/109910766-e848c380-7c76-11eb-980f-36590146c4c9.png)
 
 # Fun Fact 
 I improvised and added my own spin on this project by using Adobe Photoshop to change the colors of two of the PacMan images to allow for an illusion of a flashing PacMan as it travels across the screen.
