@@ -4,7 +4,7 @@
 MIT xPRO Week 4: Introduction to JavaScript
 
 # Description
-This animated project was created primarily in JavaScript as part of my coursework for the MIT xPRO Full Stack Web Development program. 
+This animated project was created primarily in JavaScript as part of my coursework for the MIT xPRO Full Stack Web Development program. It features a moving PacMan character that automatically travels across the screen.
 
 # Fun Fact 
 I improvised and added my own spin on this project by using Adobe Photoshop to change the colors of two of the PacMan images to allow for an illusion of a flashing PacMan as it travels across the screen.
